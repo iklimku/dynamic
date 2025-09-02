@@ -1,0 +1,519 @@
+[
+  { "term": "Atmosfer", "definition": "Lapisan gas yang menyelimuti bumi." },
+  { "term": "Banjir", "definition": "Peristiwa meluapnya air ke daratan." },
+  {
+    "term": "Cuaca",
+    "definition": "Keadaan udara pada suatu tempat dan waktu tertentu."
+  },
+  {
+    "term": "Debu Vulkanik",
+    "definition": "Partikel halus dari letusan gunung berapi."
+  },
+  {
+    "term": "El Nino",
+    "definition": "Fenomena pemanasan suhu permukaan laut di Samudra Pasifik bagian tengah dan timur."
+  },
+  {
+    "term": "Gempa Bumi",
+    "definition": "Getaran atau guncangan yang terjadi akibat pergerakan lempeng bumi."
+  },
+  {
+    "term": "Hujan",
+    "definition": "Presipitasi air cair yang turun dari atmosfer ke permukaan bumi."
+  },
+  {
+    "term": "Isobar",
+    "definition": "Garis pada peta cuaca yang menghubungkan tempat-tempat dengan tekanan udara yang sama."
+  },
+  {
+    "term": "Jet Stream",
+    "definition": "Arus udara cepat di atmosfer bagian atas."
+  },
+  {
+    "term": "Klimatologi",
+    "definition": "Ilmu yang mempelajari iklim dan variasinya dalam jangka panjang."
+  },
+  {
+    "term": "Lempeng Tektonik",
+    "definition": "Bagian kerak bumi yang bergerak dan dapat menimbulkan gempa bumi."
+  },
+  {
+    "term": "Magnitude",
+    "definition": "Ukuran kekuatan gempa bumi berdasarkan skala tertentu."
+  },
+  {
+    "term": "Nino",
+    "definition": "Nama lain dari El Nino, fenomena anomali iklim global."
+  },
+  {
+    "term": "Observatorium",
+    "definition": "Tempat pengamatan gejala-gejala alam seperti cuaca dan gempa."
+  },
+  {
+    "term": "Panas Laten",
+    "definition": "Energi yang diserap atau dilepaskan selama perubahan fase zat tanpa perubahan suhu."
+  },
+  {
+    "term": "Radiasi Surya",
+    "definition": "Energi matahari yang sampai ke permukaan bumi."
+  },
+  { "term": "Seismograf", "definition": "Alat untuk merekam gempa bumi." },
+  {
+    "term": "Tekanan Udara",
+    "definition": "Gaya yang diberikan udara terhadap suatu satuan luas permukaan."
+  },
+  {
+    "term": "Ultraviolet",
+    "definition": "Sinar dari matahari yang tidak terlihat oleh mata manusia."
+  },
+  {
+    "term": "Vulkanologi",
+    "definition": "Ilmu yang mempelajari gunung api dan aktivitasnya."
+  },
+  {
+    "term": "Warning",
+    "definition": "Peringatan dini terhadap potensi bencana alam."
+  },
+  {
+    "term": "Zona Konvergensi",
+    "definition": "Daerah pertemuan dua massa udara yang menyebabkan naiknya udara dan terbentuknya awan."
+  },
+  {
+    "term": "Anemometer",
+    "definition": "Alat untuk mengukur kecepatan angin."
+  },
+  { "term": "Barometer", "definition": "Alat untuk mengukur tekanan udara." },
+  {
+    "term": "Citra Satelit",
+    "definition": "Gambar bumi dari satelit yang digunakan untuk analisis cuaca dan iklim."
+  },
+  {
+    "term": "Drought",
+    "definition": "Kekeringan atau kekurangan air dalam jangka waktu panjang."
+  },
+  {
+    "term": "Efek Rumah Kaca",
+    "definition": "Pemanasan bumi akibat gas-gas yang menahan panas matahari."
+  },
+  {
+    "term": "Fohn",
+    "definition": "Angin kering dan panas yang turun dari gunung ke lembah."
+  },
+  {
+    "term": "Geofisika",
+    "definition": "Ilmu yang mempelajari sifat fisik bumi."
+  },
+  {
+    "term": "Hidroklimatologi",
+    "definition": "Cabang klimatologi yang mengkaji hubungan antara air dan iklim."
+  },
+  {
+    "term": "Inversi Temperatur",
+    "definition": "Keadaan di mana suhu udara bertambah dengan ketinggian."
+  },
+  {
+    "term": "Jarak Pandang",
+    "definition": "Seberapa jauh seseorang dapat melihat objek dengan jelas."
+  },
+  {
+    "term": "Kabut",
+    "definition": "Kondensasi uap air di dekat permukaan bumi."
+  },
+  {
+    "term": "Lapisan Ozon",
+    "definition": "Lapisan atmosfer yang melindungi bumi dari sinar ultraviolet."
+  },
+  {
+    "term": "Meteorologi",
+    "definition": "Ilmu yang mempelajari atmosfer dan fenomena cuaca."
+  },
+  {
+    "term": "Nol Derajat",
+    "definition": "Suhu pembekuan air dalam skala Celcius."
+  },
+  {
+    "term": "Ombak",
+    "definition": "Gerakan air laut yang disebabkan oleh angin di permukaan laut."
+  },
+  {
+    "term": "Presipitasi",
+    "definition": "Segala bentuk air yang jatuh dari atmosfer ke bumi."
+  },
+  { "term": "Quake", "definition": "Gempa bumi dalam bahasa Inggris." },
+  {
+    "term": "Radar Cuaca",
+    "definition": "Alat untuk mendeteksi dan memantau hujan dan awan."
+  },
+  {
+    "term": "Siklon Tropis",
+    "definition": "Badai kuat yang terbentuk di atas lautan tropis."
+  },
+  {
+    "term": "Tornado",
+    "definition": "Angin puting beliung yang sangat kuat dan merusak."
+  },
+  {
+    "term": "Umiditas",
+    "definition": "Kelembaban udara atau jumlah uap air di atmosfer."
+  },
+  {
+    "term": "Variabilitas Iklim",
+    "definition": "Perubahan jangka pendek dalam pola iklim."
+  },
+  {
+    "term": "Warning Tsunami",
+    "definition": "Peringatan dini terhadap potensi tsunami."
+  },
+  {
+    "term": "Zona Subduksi",
+    "definition": "Tempat pertemuan dua lempeng tektonik di mana salah satu menunjam ke bawah."
+  },
+  { "term": "Abrasi", "definition": "Pengikisan pantai oleh gelombang laut." },
+  {
+    "term": "Badai",
+    "definition": "Cuaca buruk dengan angin kencang dan hujan lebat."
+  },
+  {
+    "term": "Cahaya Aurora",
+    "definition": "Cahaya alami di langit malam akibat interaksi partikel matahari dengan atmosfer."
+  },
+  {
+    "term": "Data Klimatologi",
+    "definition": "Data historis terkait iklim suatu wilayah."
+  },
+  {
+    "term": "Epicentrum",
+    "definition": "Titik di permukaan bumi yang tepat di atas pusat gempa."
+  },
+  {
+    "term": "Fault",
+    "definition": "Patahan di kerak bumi tempat gempa bumi sering terjadi."
+  },
+  {
+    "term": "Gelombang Seismik",
+    "definition": "Gelombang getaran dari sumber gempa."
+  },
+  {
+    "term": "Hujan Asam",
+    "definition": "Hujan dengan pH rendah akibat pencemaran udara."
+  },
+  {
+    "term": "Indeks UV",
+    "definition": "Indikator tingkat radiasi ultraviolet di permukaan bumi."
+  },
+  {
+    "term": "Jarak Episentral",
+    "definition": "Jarak antara stasiun gempa dengan pusat gempa."
+  },
+  {
+    "term": "Kelembapan Relatif",
+    "definition": "Perbandingan kandungan uap air di udara dengan kapasitas maksimumnya."
+  },
+  {
+    "term": "Lintasan Topan",
+    "definition": "Jalur yang dilalui oleh badai tropis atau siklon."
+  },
+  {
+    "term": "Magnitudo Moment",
+    "definition": "Ukuran kekuatan gempa berdasarkan energi yang dilepaskan."
+  },
+  {
+    "term": "Normal Iklim",
+    "definition": "Rata-rata parameter iklim selama periode 30 tahun."
+  },
+  {
+    "term": "Peringatan Dini",
+    "definition": "Informasi cepat untuk menghindari dampak bencana."
+  },
+  {
+    "term": "Quaternary",
+    "definition": "Periode geologi terbaru dalam sejarah bumi."
+  },
+  {
+    "term": "Rembesan Gas",
+    "definition": "Keluarnya gas dari dalam bumi, biasanya di daerah gunung api."
+  },
+  {
+    "term": "Skala Richter",
+    "definition": "Skala untuk mengukur magnitudo gempa."
+  },
+  {
+    "term": "Tsunami",
+    "definition": "Gelombang besar akibat gempa bawah laut atau letusan gunung api."
+  },
+  {
+    "term": "Upwelling",
+    "definition": "Naiknya air laut yang dingin dan kaya nutrisi ke permukaan."
+  },
+  {
+    "term": "Vulkanik Eksplosif",
+    "definition": "Letusan gunung api yang disertai ledakan hebat."
+  },
+  {
+    "term": "Waspada Cuaca Ekstrem",
+    "definition": "Kondisi siaga terhadap fenomena cuaca ekstrem."
+  },
+  {
+    "term": "Zona Bahaya",
+    "definition": "Wilayah yang rawan terkena dampak bencana alam."
+  },
+  {
+    "term": "Analisis Synoptik",
+    "definition": "Evaluasi cuaca secara keseluruhan menggunakan peta sinoptik."
+  },
+  {
+    "term": "Bumi Padat",
+    "definition": "Bagian dalam bumi seperti mantel dan inti."
+  },
+  {
+    "term": "Cumulonimbus",
+    "definition": "Jenis awan besar yang sering menyebabkan hujan deras dan petir."
+  },
+  {
+    "term": "Data Seismik",
+    "definition": "Data hasil rekaman gelombang gempa bumi."
+  },
+  {
+    "term": "Efek Coriolis",
+    "definition": "Pembelokan arah angin akibat rotasi bumi."
+  },
+  {
+    "term": "Frontal System",
+    "definition": "Pertemuan massa udara berbeda yang memicu cuaca buruk."
+  },
+  {
+    "term": "Gelombang Panas",
+    "definition": "Kenaikan suhu ekstrem dalam waktu tertentu."
+  },
+  {
+    "term": "Hari Tanpa Hujan",
+    "definition": "Hari berturut-turut tanpa terjadi hujan."
+  },
+  {
+    "term": "Index ENSO",
+    "definition": "Indikator kekuatan El Nino dan La Nina."
+  },
+  {
+    "term": "Jarak Tempuh Angin",
+    "definition": "Seberapa jauh angin bergerak dalam waktu tertentu."
+  },
+  {
+    "term": "Kilat",
+    "definition": "Pelepasan listrik di atmosfer yang tampak sebagai cahaya terang."
+  },
+  {
+    "term": "Longsor",
+    "definition": "Pergerakan tanah atau batu akibat hujan atau getaran bumi."
+  },
+  {
+    "term": "Meteor",
+    "definition": "Benda langit yang terbakar di atmosfer dan tampak seperti bintang jatuh."
+  },
+  {
+    "term": "Nipah",
+    "definition": "Pasang laut maksimum yang terjadi saat bulan baru atau purnama."
+  },
+  {
+    "term": "Ombak Pasang",
+    "definition": "Naiknya permukaan laut akibat pengaruh angin dan gravitasi bulan/matahari."
+  },
+  {
+    "term": "Pusaran Tropis",
+    "definition": "Pusat tekanan rendah di wilayah tropis yang berputar."
+  },
+  {
+    "term": "Refraksi",
+    "definition": "Pembelokan gelombang cahaya atau suara saat melewati medium berbeda."
+  },
+  { "term": "Salinitas", "definition": "Kadar garam terlarut dalam air laut." },
+  {
+    "term": "Talweg",
+    "definition": "Garis terdalam lembah atau dasar sungai."
+  },
+  {
+    "term": "Uap Air",
+    "definition": "Air dalam bentuk gas yang terdapat di atmosfer."
+  },
+  {
+    "term": "Zona Megathrust",
+    "definition": "Zona subduksi dengan potensi gempa sangat besar."
+  },
+  {
+    "term": "Hari Tanpa Hujan (HTH)",
+    "definition": "Periode berturut‑turut di mana suatu wilayah tidak mengalami hujan atau hanya menerima hujan sangat rendah (curah hujan < 1 mm). Kategori HTH: Sangat Pendek (0–5 hari), Pendek (6–10 hari), Menengah (11–20 hari), Panjang (21–30 hari), Sangat Panjang (31–60 hari), Ekstrem (> 60 hari)."
+  },
+  {
+    "term": "SPI (Standardized Precipitation Index)",
+    "definition": "Indeks untuk menentukan penyimpangan curah hujan terhadap normal dalam periode panjang; dihitung dengan distribusi gamma. Kategori: Sangat Kering (≤ –2,00), Kering (–1,50 sampai –1,99), Agak Kering (–1,00 sampai –1,49), Normal (–0,99 sampai 0,99), Agak Basah (1,00 sampai 1,49), Basah (1,50 sampai 1,99), Sangat Basah (≥ 2,00)."
+  },
+  {
+    "term": "Analisis Hujan Bulanan",
+    "definition": "Analisis curah hujan yang terjadi dalam satu bulan pada suatu wilayah."
+  },
+  {
+    "term": "Prakiraan Curah Hujan",
+    "definition": "Prediksi jumlah hujan yang diperkirakan turun dalam periode tertentu (bulanan atau dasarian)."
+  },
+  {
+    "term": "Prediksi Musim Hujan / Kemarau",
+    "definition": "Perkiraan awal datangnya musim hujan atau musim kemarau di suatu wilayah."
+  },
+  {
+    "term": "Perkembangan ENSO dan IOD",
+    "definition": "Pemantauan kondisi fenomena iklim global El Niño–Southern Oscillation dan Indian Ocean Dipole yang memengaruhi iklim Indonesia."
+  },
+  {
+    "term": "Indeks Presipitasi Terstandarisasi",
+    "definition": "Istilah lain untuk SPI (Standardized Precipitation Index)."
+  },
+  {
+    "term": "Prediksi Potensi Banjir",
+    "definition": "Perkiraan wilayah dan periode yang berpotensi mengalami banjir berdasarkan curah hujan dan kondisi drainase."
+  },
+  {
+    "term": "Tingkat Ketersediaan Air bagi Tanaman",
+    "definition": "Analisis pasokan air di dalam tanah yang tersedia untuk tanaman, dihitung via neraca air dengan metode Thornthwaite–Mather (ATi); kategori: Kurang (< 40 %), Sedang (40–60 %), Cukup (> 60 %)."
+  },
+  {
+    "term": "Peringatan Dini Demam Berdarah",
+    "definition": "Sistem pemberitahuan awal potensi wabah DBD berdasarkan kelembapan udara dan iklim."
+  },
+  {
+    "term": "Prediksi Indeks Potensi Karhutla",
+    "definition": "Perkiraan potensi kebakaran hutan dan lahan berdasarkan kondisi iklim kering dan indeks kekeringan."
+  },
+  {
+    "term": "Anomali Suhu",
+    "definition": "Perbedaan antara suhu aktual dengan suhu rata‑rata klimatologis; digunakan untuk memantau pemanasan global atau pendinginan regional."
+  },
+  {
+    "term": "Proyeksi Perubahan Suhu",
+    "definition": "Perkiraan tren suhu masa depan berdasarkan skenario iklim dan model iklim global."
+  },
+  {
+    "term": "Proyeksi Perubahan Curah Hujan",
+    "definition": "Prediksi perubahan pola curah hujan di masa depan berdasarkan model iklim dan tren historis."
+  },
+
+  {
+    "term": "ENSO",
+    "definition": "El Niño–Southern Oscillation: fenomena anomali suhu muka laut di Samudra Pasifik tropis (timur/ tengah) yang memengaruhi pola cuaca dan curah hujan global—fase El Niño (lebih hangat), La Niña (lebih dingin)."
+  },
+  {
+    "term": "ITCZ (Inter‑Tropical Convergence Zone)",
+    "definition": "Sabuk konvergensi tropis: daerah di sekitar khatulistiwa tempat bertemunya massa udara utara dan selatan, mendorong pertumbuhan awan hujan konvektif."
+  },
+  {
+    "term": "MJO (Madden–Julian Oscillation)",
+    "definition": "Gelombang atmosfer intra-musiman tropis berupa pola konveksi bergerak tanpaazimuth tetap, memengaruhi distribusi hujan di Indonesia dan Samudra Hindia–Pasifik."
+  },
+  {
+    "term": "Kelvin Wave",
+    "definition": "Gelombang atmosfer skala besar yang bergerak di sepanjang ekuator, berinteraksi dengan fenomena iklim seperti MJO."
+  },
+  {
+    "term": "Rossby Wave",
+    "definition": "Gelombang planet di atmosfer besar yang dibentuk oleh rotasi Bumi dan konfigurasi pusat tekanan rendah di Samudra Atlantik dan Pasifik."
+  },
+  {
+    "term": "IOD (Indian Ocean Dipole)",
+    "definition": "Fenomena variasi suhu muka laut di Samudra Hindia: IOD positif (laut barat lebih hangat barat Sumatera lebih dingin) → hujan berkurang di Indonesia; sebaliknya IOD negatif."
+  },
+  {
+    "term": "DMA (Dipole Mode Asia)",
+    "definition": "(kemungkinan typo, BMKG menyebut DM+ sebagai Dipole Mode Positif terkait IOD) — variasi suhu muka laut yang memengaruhi curah hujan di Indonesia."
+  },
+  {
+    "term": "GAW (Global Atmosphere Watch)",
+    "definition": "Program pemantauan kualitas atmosfer global; BMKG memiliki stasiun GAW yang memantau gas rumah kaca seperti CO₂ dan CH₄."
+  },
+  {
+    "term": "GRK (Gas Rumah Kaca)",
+    "definition": "Gas-gas di atmosfer (misal CO₂, CH₄) yang menyerap radiasi dan memengaruhi pemanasan global; BMKG memantau konsentrasinya di beberapa lokasi."
+  },
+  {
+    "term": "SML (Suhu Muka Laut)",
+    "definition": "Suhu permukaan laut; digunakan untuk pemantauan ENSO, IOD, dan indikator perubahan iklim global."
+  },
+  {
+    "term": "Majalah KLIMA",
+    "definition": "Publikasi resmi BMKG yang memuat analisis fenomena iklim, perubahan iklim, kualitas udara, dan kebijakan terkait."
+  },
+  {
+    "term": "Tren Temperatur Udara",
+    "definition": "Perubahan rata-rata suhu udara selama periode tertentu (1981–2019); BMKG mencatat tren kenaikan ±0,02 °C/tahun di banyak stasiun."
+  },
+  {
+    "term": "Analisis Curah Hujan Bulanan",
+    "definition": "Evaluasi curah hujan pada setiap bulan terhadap normal historis untuk merencanakan dan mengantisipasi kondisi ekstrem."
+  },
+  {
+    "term": "Analisis Curah Hujan Tahunan",
+    "definition": "Evaluasi akumulasi hujan per tahun dan perbandingannya dengan normal iklim 30‑tahun."
+  },
+  {
+    "term": "Musim Kemarau / Musim Hujan",
+    "definition": "Periode dominasi curah hujan rendah (kemarau) atau tinggi (hujan), ditandai oleh arah angin muson dan posisi ITCZ."
+  },
+  {
+    "term": "Zona Musim (ZOM)",
+    "definition": "Unit pembagian wilayah iklim di Indonesia berdasarkan pola musiman curah hujan; BMKG menggunakan ±342 ZOM."
+  },
+  {
+    "term": "Awal Musim Kemarau / Hujan",
+    "definition": "Momen saat ZOM memasuki keadaan musim kemarau/hujan, dibandingkan dengan rata-rata historis (maju/sama/mundur)."
+  },
+  {
+    "term": "Klimatologi Inter-tahunan",
+    "definition": "Cabang klimatologi yang mempelajari iklim pada skala tahunan hingga dekadal: melibatkan ENSO, IOD, MJO, dsb."
+  },
+  {
+    "term": "Pemanasan Global",
+    "definition": "Kenaikan suhu rata-rata global akibat peningkatan konsentrasi gas rumah kaca sejak era pra-industri (~1850‑1900)."
+  },
+  {
+    "term": "Prediksi Iklim Ekstrem",
+    "definition": "Sistem peringatan awal untuk kejadian ekstrem iklim—seperti banjir lebat, kekeringan panjang, suhu ekstrem—berdasarkan analisis dinamika iklim. Peringatan dini terkait kejadian iklim ekstrim seperti hujan lebat atau kekeringan."
+  },
+
+  {
+    "term": "HTH (Hari Tanpa Hujan)",
+    "definition": "Periode berturut‑turut di mana suatu wilayah tidak mengalami hujan (curah hujan < 1 mm); produk iklim BMKG untuk menilai kekeringan jangka pendek."
+  },
+  {
+    "term": "SPI‑1, SPI‑3, SPI‑12",
+    "definition": "Standardized Precipitation Index untuk 1‑, 3‑, dan 12‑bulan: mengukur anomali curah hujan relatif terhadap normal klimatologis, digunakan untuk klasifikasi kekeringan meteorologis."
+  },
+  {
+    "term": "Produk Hari Tanpa Hujan",
+    "definition": "Produk iklim BMKG yang menyajikan peta atau grafik distribusi HTH per dasarian atau periode tertentu, digunakan untuk pemantauan kekeringan."
+  },
+  {
+    "term": "Diagram Debet Hari Tanpa Hujan",
+    "definition": "Visualisasi deret HTH di wilayah tertentu sebagai alat analisis kekeringan dalam buletin dan infografis BMKG."
+  },
+  {
+    "term": "Indeks Kekeringan Meteorologis",
+    "definition": "Klasifikasi kekeringan berdasarkan SPI dengan rentang kategori seperti sangat kering hingga sangat basah."
+  },
+  {
+    "term": "Jejak Kekeringan",
+    "definition": "Laporan BMKG tentang pola kekeringan meteorologis di Indonesia periode panjang (2011–2020), menampilkan distribusi HTH dan SPI."
+  },
+  {
+    "term": "Anomali HTH",
+    "definition": "Perbandingan Hari Tanpa Hujan aktual dengan nilai normal historis untuk menilai keparahan kekeringan."
+  },
+  {
+    "term": "Peta Curah Hujan Ekstrem (1991–2020)",
+    "definition": "Peta distribusi kejadian hujan ekstrem berdasarkan data historis curah hujan yang ditampilkan oleh BMKG."
+  },
+  {
+    "term": "Hotspot",
+    "definition": "Lokasi dengan indikasi titik panas (kebakaran hutan dan lahan) yang dipantau BMKG dan digunakan bersama data iklim."
+  },
+  {
+    "term": "Monitoring Kekeringan BMKG",
+    "definition": "Serangkaian produk BMKG yang mencakup HTH, SPI, peta curah hujan ekstrem, dan hotspot sebagai parameter kondisi kekeringan iklim dan cuaca."
+  }
+]

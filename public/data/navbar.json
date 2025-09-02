@@ -1,0 +1,205 @@
+[
+  {
+    "title": "Perkembangan Terkini",
+    "subMenu": [
+      {
+        "title": "Hari Tanpa Hujan",
+        "href": "/hari-tanpa-hujan/detail"
+      },
+      {
+        "title": "Perkembangan Musim",
+        "href": "/perkembangan-musim/detail"
+      },
+      {
+        "title": "Anomali Suhu Udara",
+        "href": "/anomali-suhu-udara/daftar"
+      },
+      {
+        "title": "Catatan Iklim Ekstrem",
+        "href": "/catatan-iklim-ekstrem/detail"
+      },
+      {
+        "title": "Indeks Iklim Global",
+        "href": "/indeks-iklim-global/detail"
+      },
+      {
+        "title": "Indeks Ultraviolet",
+        "href": "/indeks-ultraviolet/detail"
+      },
+      {
+        "title": "Partikulat PM2,5",
+        "href": "/pm25/detail"
+      },
+      {
+        "title": "Gas Rumah Kaca",
+        "href": "/gas-rumah-kaca/detail"
+      },
+      {
+        "title": "Monitoring Titik Panas",
+        "href": "/monitoring-titik-panas/detail"
+      },
+      {
+        "title": "Titik Panas Bulanan",
+        "href": "/titik-panas-bulanan/detail"
+      }
+    ]
+  },
+  {
+    "title": "Analisis",
+    "subMenu": [
+      {
+        "title": "Hujan Dasarian",
+        "href": "/analisis-hujan-dasarian/detail"
+      },
+      {
+        "title": "Hujan Bulanan",
+        "href": "/analisis-hujan-bulanan/detail"
+      },
+      {
+        "title": "Indeks Presipitasi Terstandarisasi",
+        "href": "/indeks-presipitasi-terstandarisasi/detail"
+      },
+      {
+        "title": "Ketersediaan Air bagi Tanaman",
+        "href": "/ketersediaan-air-bagi-tanaman/detail"
+      },
+      {
+        "title": "Konsentrasi CO2",
+        "href": "/konsentrasi-co2/detail"
+      },
+      {
+        "title": "Dinamika Atmosfer dan Laut",
+        "href": "/dinamika-atmosfer-dan-laut/detail"
+      }
+    ]
+  },
+  {
+    "title": "Peringatan Dini",
+    "subMenu": [
+      {
+        "title": "Peringatan Dini Kekeringan Meteorologis",
+        "href": "/peringatan-dini-kekeringan-meteorologis/detail"
+      },
+      {
+        "title": "Peringatan Dini Curah Hujan Tinggi",
+        "href": "/peringatan-dini-curah-hujan-tinggi/detail"
+      },
+      {
+        "title": "Kondisi ENSO (EL Nino dan La Nina)",
+        "href": "/kondisi-enso-el-nino-dan-la-nina/detail"
+      },
+      {
+        "title": "Peringatan Dini Konsentrasi Partikulat (PM2,5)",
+        "href": "/peringatan-dini-konsentrasi-partikulat/detail"
+      }
+    ]
+  },
+  {
+    "title": "Prakiraan Kualitas Udara",
+    "subMenu": [
+      {
+        "title": "Konsentrasi GRK",
+        "href": "/konsentrasi-gas-rumah-kaca/detail"
+      },
+      {
+        "title": "Karbon Monoksida (CO)",
+        "href": "/karbon-monoksida/detail"
+      },
+      {
+        "title": "Sulfur Dioksida (SO2)",
+        "href": "/sulfur-dioksida/detail"
+      },
+      {
+        "title": "Nitrogen Dioksida (NO2)",
+        "href": "/nitrogen-dioksida/detail"
+      },
+      {
+        "title": "Ozon Permukaan (O3)",
+        "href": "/ozon-permukaan/detail"
+      }
+    ]
+  },
+  {
+    "title": "Prediksi",
+    "subMenu": [
+      {
+        "title": "Prediksi Musim",
+        "href": "/prediksi-musim/detail"
+      },
+      {
+        "title": "Prediksi Indeks Presipitasi Terstandarisasi",
+        "href": "/prediksi-indeks-presipitasi-terstandarisasi/detail"
+      },
+      {
+        "title": "Prediksi Hujan Bulanan",
+        "href": "/prediksi-hujan-bulanan/daftar"
+      },
+      {
+        "title": "Prediksi Hujan Dasarian",
+        "href": "/prediksi-hujan-dasarian/daftar"
+      },
+      {
+        "title": "Prediksi daerah Potensi Banjir",
+        "href": "/prediksi-daerah-potensi-banjir/detail"
+      },
+      {
+        "title": "Prediksi Konsentrasi Gas Rumah Kaca",
+        "href": "/prediksi-konsentrasi-gas-rumah-kaca/detail"
+      },
+      {
+        "title": "Prediksi Ketersediaan Air Bagi Tanaman",
+        "href": "/prediksi-ketersediaan-air-bagi-tanaman/detail"
+      }
+    ]
+  },
+  {
+    "title": "Perubahan Iklim",
+    "subMenu": [
+      {
+        "title": "Fakta Perubahan Iklim",
+        "href": "/fakta-perubahan-iklim/detail"
+      },
+      {
+        "title": "Analisis Laju Perubahan Suhu Udara",
+        "href": "/analisis-laju-perubahan-suhu-udara/detail"
+      },
+      {
+        "title": "Analisis Laju Perubahan Curah Hujan",
+        "href": "/analisis-laju-perubahan-curah-hujan/detail"
+      },
+      {
+        "title": "Proyeksi Perubahan Suhu Udara",
+        "href": "/proyeksi-perubahan-suhu-udara/detail"
+      },
+      {
+        "title": "Proyeksi Perubahan Curah Hujan",
+        "href": "/proyeksi-perubahan-curah-hujan/detail"
+      },
+      {
+        "title": "Warming Stripes",
+        "href": "/warming-stripes/detail"
+      }
+    ]
+  },
+  {
+    "title": "Lainnya",
+    "subMenu": [
+      {
+        "title": "Buletin",
+        "href": "/buletin"
+      },
+      {
+        "title": "Regulasi",
+        "href": "/regulasi/daftar"
+      },
+      {
+        "title": "Glosarium",
+        "href": "/glosarium"
+      },
+      {
+        "title": "Frequently Asked Question",
+        "href": "/faq/detail"
+      }
+    ]
+  }
+]

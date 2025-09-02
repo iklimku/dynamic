@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "slug": "hari-tanpa-hujan",
+    "url": "https://dataweb.bmkg.go.id/iklim/hari-tanpa-hujan.png",
+    "alt": "Hari Tanpa Hujan",
+    "description": "Peta monitoring Hari Tanpa Hujan (HTH) yang diperbarui setiap dasarian (10 harian)."
+  },
+  {
+    "id": 2,
+    "slug": "analisis-curah-hujan-dasarian",
+    "url": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/ACH_DAS/ach_das.png",
+    "alt": "Analisis Curah Hujan Dasarian",
+    "description": "Analisis perbandingan curah hujan yang terjadi pada satu dasarian terhadap kondisi normalnya."
+  },
+  {
+    "id": 3,
+    "slug": "peringatan-dini-kekeringan-meteorologis",
+    "url": "https://cews.bmkg.go.id/operational-early-warning-pdi/0_Latest/PDKM_latest.jpg",
+    "alt": "Peringatan Dini Kekeringan Meteorologis",
+    "description": "Informasi potensi kekeringan meteorologis di wilayah Indonesia yang berlaku hingga 20 hari ke depan."
+  },
+  {
+    "id": 4,
+    "slug": "konsentrasi-partikulat",
+    "url": "https://cews.bmkg.go.id/tempatirk/CAMS_PM2p5/update_pm2p5_aq.gif",
+    "alt": "Kualitas Udara Berdasarkan PM2.5",
+    "description": "Informasi konsentrasi Particulate Matter (PM2.5) di atmosfer yang memengaruhi kualitas udara."
+  },
+  {
+    "id": 5,
+    "slug": "prediksi-indeks-presipitasi-terstandarisasi",
+    "url": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PRAKSPI/prakspi1.png",
+    "alt": "Prediksi Indeks Presipitasi Terstandarisasi",
+    "description": "Prediksi tingkat kekeringan atau kebasahan suatu wilayah untuk beberapa bulan ke depan."
+  },
+  {
+    "id": 6,
+    "slug": "warming-stripes",
+    "url": "https://i0.wp.com/content.bmkg.go.id/wp-content/uploads/warming_stripes_HD-2.png?ssl=1",
+    "alt": "Warming Stripes",
+    "description": "Visualisasi data perubahan suhu rata-rata tahunan dari waktu ke waktu."
+  }
+]

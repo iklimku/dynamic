@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Pertanian dan Kehutanan",
+    "icon": "Leaf",
+    "href": "pertanian/daftar"
+  },
+  {
+    "title": "Sumber Daya Air & Bencana",
+    "icon": "Waves",
+    "href": "air-bencana/daftar"
+  },
+  {
+    "title": "Kesehatan",
+    "icon": "HeartPulse",
+    "href": "kesehatan/daftar"
+  },
+  {
+    "title": "Energi",
+    "icon": "Sun",
+    "href": "energi/daftar"
+  },
+  {
+    "title": "Perencanaan & Pembangunan",
+    "icon": "Building2",
+    "href": "pembangunan/daftar"
+  }
+]

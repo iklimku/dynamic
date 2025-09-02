@@ -1,0 +1,1228 @@
+[
+  {
+    "slug": "hari-tanpa-hujan",
+    "title": "Hari Tanpa Hujan",
+    "imageUrl": "https://dataweb.bmkg.go.id/iklim/hari-tanpa-hujan.png",
+    "descriptionUrl": "",
+    "description": "Hari Tanpa Hujan (HTH) adalah periode berturut-turut di mana suatu wilayah tidak mengalami hujan atau hanya menerima curah hujan yang sangat rendah (kurang dari 1 mm). Istilah ini digunakan oleh Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) untuk memantau dan mengklasifikasikan tingkat kekeringan meteorologis di berbagai daerah di Indonesia. BMKG mengklasifikasikan HTH berdasarkan durasi hari tanpa hujan sebagai berikut:<br/>Sangat Pendek: 0-5 hari<br/>Pendek: 6-10 hari<br/>Menengah: 11-20 hari<br/>Panjang: 21-30 hari<br/>Sangat Panjang: 31-60 hari<br/>Ekstrem: lebih dari 60 hari<br/>Perhitungan HTH dilakukan dengan menganalisis curah hujan harian, di mana hari tanpa hujan berturut-turut dihitung dari hari terakhir pengamatan. Jika hari terakhir tidak terjadi hujan (curah hujan < 1 mm), maka dihitung sesuai dengan kriteria HTH. Sebaliknya, jika hari terakhir terdapat hujan (curah hujan ≥ 1 mm), maka langsung dikategorikan sebagai Hari Hujan (HH).",
+    "tabs": null,
+    "iframeUrl": null
+  },
+  {
+    "slug": "perkembangan-musim",
+    "title": "Perkembangan Musim",
+    "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/MUSIM/permus_poster.png",
+    "descriptionUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/MUSIM/permus_narasi.txt",
+    "description": "",
+    "tabs": null,
+    "iframeUrl": null
+  },
+  {
+    "slug": "normal-suhu-udara-rata-rata",
+    "title": "Normal & Suhu Udara Rata-Rata",
+    "imageUrl": "https://i0.wp.com/content.bmkg.go.id/wp-content/uploads/Gambar-4a-Peta-Suhu-rata-rata.png",
+    "descriptionUrl": "",
+    "description": "",
+    "tabs": [
+      {
+        "title": "Peta",
+        "imageUrl": "https://i0.wp.com/content.bmkg.go.id/wp-content/uploads/Gambar-4a-Peta-Suhu-rata-rata.png",
+        "descriptionUrl": "",
+        "description": "Informasi mengenai normal dan suhu udara rata-rata dalam bentuk peta"
+      },
+      {
+        "title": "Grafik",
+        "imageUrl": "https://i0.wp.com/content.bmkg.go.id/wp-content/uploads/Gambar-1-Grafik-Normal-suhu-bulanan-dan-suhu-rata-rata-bulanan.png",
+        "descriptionUrl": "",
+        "description": "Berdasarkan analisis dari 114 stasiun pengamatan BMKG, suhu udara rata-rata bulan Juni 2025 adalah sebesar 26.9 °C. Normal suhu udara klimatologis untuk bulan Juni 2025 periode 1991-2020 di Indonesia adalah sebesar 26.5 °C (dalam kisaran normal 21.03 °C - 30.06 °C)"
+      },
+      {
+        "title": "Tabel",
+        "imageUrl": "https://i0.wp.com/content.bmkg.go.id/wp-content/uploads/Gambar-4b-Tabel-stasiun-dengan-suhu-rata-rata-tertinggi-dan-terendah.png",
+        "descriptionUrl": "",
+        "description": "Informasi mengenai normal dan suhu udara rata-rata dalam bentuk tabel"
+      }
+    ],
+    "iframeUrl": null
+  },
+  {
+    "slug": "anomali-suhu-udara-rata-rata",
+    "title": "Anomali Suhu Udara Rata-Rata",
+    "imageUrl": "https://i0.wp.com/content.bmkg.go.id/wp-content/uploads/Gambar-3a-Peta-Anomali-Suhu.png",
+    "descriptionUrl": "",
+    "description": "",
+    "tabs": [
+      {
+        "title": "Peta",
+        "imageUrl": "https://i0.wp.com/content.bmkg.go.id/wp-content/uploads/Gambar-3a-Peta-Anomali-Suhu.png",
+        "descriptionUrl": "",
+        "description": "Informasi mengenai anomali suhu udara dalam bentuk peta"
+      },
+      {
+        "title": "Grafik",
+        "imageUrl": "https://i0.wp.com/content.bmkg.go.id/wp-content/uploads/Gambar-2-Grafik-anomali-dan-suhu-rata-rata.png",
+        "descriptionUrl": "",
+        "description": "Berdasarkan nilai-nilai tersebut, anomali suhu udara rata-rata pada bulan Juni 2025 menunjukan anomali positif dengan nilai sebesar 0.3 °C. Anomali suhu udara Indonesia pada bulan Juni 2025 ini merupakan nilai anomali tertinggi ke-6 sepanjang periode pengamatan sejak 1981."
+      },
+      {
+        "title": "Tabel",
+        "imageUrl": "https://i0.wp.com/content.bmkg.go.id/wp-content/uploads/Gambar-3b-Tabel-stasiun-dengan-anomali-suhu-rata-rata-tertinggi-dan-terendah.png",
+        "descriptionUrl": "",
+        "description": "Secara umum di wilayah Indonesia, anomali suhu udara rata-rata per-stasiun pada bulan Juni 2025 menunjukkan nilai anomali positif atau lebih tinggi dari rata-rata klimatologisnya. Anomali maksimum tercatat di Stasiun Meteorologi Raja Haji Fisabilillah - Tanjungpinang (1.2 °C), sedangkan anomali minimum tercatat di Stasiun Meteorologi Karel Sadsuitubun - Maluku Tenggara (-0.8 °C)."
+      }
+    ],
+    "iframeUrl": null
+  },
+  {
+    "slug": "selisih-suhu-udara-rata-rata",
+    "title": "Selisih Suhu Udara Rata-Rata",
+    "imageUrl": "https://i0.wp.com/content.bmkg.go.id/wp-content/uploads/Gambar-4c-Mdiff.png",
+    "descriptionUrl": "",
+    "description": "",
+    "tabs": [
+      {
+        "title": "Peta",
+        "imageUrl": "https://i0.wp.com/content.bmkg.go.id/wp-content/uploads/Gambar-4c-Mdiff.png",
+        "descriptionUrl": "",
+        "description": "Informasi mengenai selisih suhu udara rata-rata dalam bentuk peta"
+      },
+      {
+        "title": "Tabel",
+        "imageUrl": "https://i0.wp.com/content.bmkg.go.id/wp-content/uploads/Gambar-4d-Tabel-stasiun-dengan-selisih-suhu-rata-rata-tertinggi-dan-terendah.png",
+        "descriptionUrl": "",
+        "description": "Perbedaan (selisih) suhu udara rata-rata bulan Juni 2025 terhadap bulan sebelumnya (Mei 2025), dari 158 stasiun pengamatan BMKG di Indonesia secara umum menunjukkan penurunan suhu (nilai negatif). Peningkatan suhu terbesar tercatat di Stasiun Meteorologi Trunojoyo - Madura dan Stasiun Meteorologi Sangkapura - Gresik (0.3 °C), sedangkan penurunan suhu terbesar tercatat di Stasiun Meteorologi Radin Inten II - Lampung Selatan (-1.4 °C)."
+      }
+    ],
+    "iframeUrl": null
+  },
+  {
+    "slug": "indeks-iklim-global",
+    "title": "Indeks Iklim Global",
+    "imageUrl": "",
+    "descriptionUrl": "",
+    "description": "",
+    "tabs": [
+      {
+        "title": "AUSMI",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/INDEX/ausmi_index.png",
+        "descriptionUrl": "",
+        "description": "Informasi terkait Australian Monsoon Index (ausmi)"
+      },
+      {
+        "title": "CENS",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/INDEX/cens_index.png",
+        "descriptionUrl": "",
+        "description": "Informasi terkait Cross Equatorial Northly Surges (CENS)"
+      },
+      {
+        "title": "SCSCEF",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/INDEX/scscef_index.png",
+        "descriptionUrl": "",
+        "description": "Informasi terkait South China Sea Cross Equatorial Flow (SCSCEF)"
+      },
+      {
+        "title": "WNPMI",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/INDEX/wnpmi_index.png",
+        "descriptionUrl": "",
+        "description": "Informasi terkait Western North Pacific Monsoon Index (WNPMI)"
+      }
+    ],
+    "iframeUrl": null
+  },
+  {
+    "slug": "catatan-iklim-ekstrem",
+    "title": "Catatan Iklim Ekstrem",
+    "imageUrl": "",
+    "descriptionUrl": "",
+    "description": "",
+    "tabs": null,
+    "iframeUrl": null
+  },
+  {
+    "slug": "indeks-ultraviolet",
+    "title": "Indeks Ultraviolet",
+    "imageUrl": "https://cews.bmkg.go.id/UVI-Indonesia/png/0-uv-compile-update.gif",
+    "descriptionUrl": "",
+    "description": "Secara umum pita gelombang cahaya matahari dibagi menjadi tiga bagian utama yaitu sinar ultraviolet (UV) dengan panjang gelombang 100 - 400 nm. Berikutnya cahaya tampak atau cahaya yang bisa terlihat oleh mata manusia pada 400 - 700 nm. Kemudian bagian ketiga adalah sinar inframerah (IR) dengan panjang gelombang 700 nm - 1 mm. Sinar inframerah seperti juga sinar ultraviolet tidak bisa ditangkap oleh mata. Untuk diketahui 1 nm = 1 nanometer = 10-9 meter.\nSinar ultraviolet merupakan bagian gelombang elektromagnetik dari energi radiasi matahari pada pita 100-400 nm. Radiasi matahari yang menjangkau permukaan bumi sendiri berada pada sekitar panjang gelombang 100 nm sampai dengan 1 mm.\nBadan Meteorologi Dunia (World Meteorological Organisation/WMO) menuliskan bahwa sinar matahari yang kurang akan memengaruhi mood kita dan juga meningkatkan ancaman kekurangan vitamin D. Namun jika menerima paparan sinar matahari yang berlebihan akan menimbulkan bahaya bagi kesehatan.",
+    "tabs": null,
+    "iframeUrl": null
+  },
+  {
+    "slug": "pm25",
+    "title": "Partikulat PM 2,5",
+    "imageUrl": "",
+    "descriptionUrl": "",
+    "description": "",
+    "tabs": null,
+    "iframeUrl": "https://cews.bmkg.go.id/tempatirk/TEMPORARY/dashboard_pm2p5.html"
+  },
+  {
+    "slug": "gas-rumah-kaca",
+    "title": "Gas Rumah Kaca",
+    "imageUrl": "",
+    "descriptionUrl": "",
+    "description": "",
+    "tabs": null,
+    "iframeUrl": "https://cews.bmkg.go.id/tempatirk/WEB-GRK/OBS/"
+  },
+  {
+    "slug": "monitoring-titik-panas",
+    "title": "Monitoring Titik Panas",
+    "imageUrl": "",
+    "descriptionUrl": "",
+    "description": "",
+    "tabs": null,
+    "iframeUrl": "https://cews.bmkg.go.id/tempatirk/HOTSPOT/"
+  },
+  {
+    "slug": "titik-panas-bulanan",
+    "title": "Titik Panas Bulanan",
+    "imageUrl": "",
+    "descriptionUrl": "",
+    "description": "",
+    "tabs": null,
+    "iframeUrl": "https://cews.bmkg.go.id/tempatirk/HOTSPOT_ARCHIVED/"
+  },
+  {
+    "slug": "analisis-hujan-dasarian",
+    "title": "Analisis Hujan Dasarian",
+    "imageUrl": "",
+    "descriptionUrl": "",
+    "description": "",
+    "tabs": [
+      {
+        "title": "Analisis Curah Hujan Dasarian",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/ACH_DAS/ach_das.png",
+        "descriptionUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/ACH_DAS/ach_das.txt",
+        "description": ""
+      },
+      {
+        "title": "Analisis Sifat Hujan Dasarian",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/ACH_DAS/ash_das.png",
+        "descriptionUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/ACH_DAS/ash_das.txt",
+        "description": ""
+      }
+    ],
+    "iframeUrl": null
+  },
+  {
+    "slug": "analisis-hujan-bulanan",
+    "title": "Analisis Hujan Bulanan",
+    "imageUrl": "",
+    "descriptionUrl": "",
+    "description": "",
+    "tabs": [
+      {
+        "title": "Analisis Curah Hujan Bulanan",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/ACH_BLN/ach_bln.png",
+        "descriptionUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/ACH_DAS/ach_das.txt",
+        "description": ""
+      },
+      {
+        "title": "Analisis Sifat Hujan Bulanan",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/ACH_BLN/ash_bln.png",
+        "descriptionUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/ACH_BLN/ash_bln.txt",
+        "description": ""
+      }
+    ],
+    "iframeUrl": null
+  },
+  {
+    "slug": "indeks-presipitasi-terstandarisasi",
+    "title": "Indeks Presipitasi Terstandarisasi",
+    "imageUrl": "",
+    "descriptionUrl": "",
+    "description": "",
+    "tabs": [
+      {
+        "title": "SPI-1",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/ANSPI/anspi1.png",
+        "descriptionUrl": "https://cews.bmkg.go.id/operational-early-warning-pdi/0_Latest/SPI1_analisis_latest.txt",
+        "description": "Informasi mengenai indeks presipitasi terstandarisasi 1"
+      },
+      {
+        "title": "SPI-3",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/ANSPI/anspi3.png",
+        "descriptionUrl": "https://cews.bmkg.go.id/operational-early-warning-pdi/0_Latest/SPI3_analisis_latest.txt",
+        "description": "Informasi mengenai indeks presipitasi terstandarisasi 3"
+      },
+      {
+        "title": "SPI-6",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/ANSPI/anspi6.png",
+        "descriptionUrl": "",
+        "description": "Informasi mengenai indeks presipitasi terstandarisasi 6"
+      }
+    ],
+    "iframeUrl": null
+  },
+  {
+    "slug": "ketersediaan-air-bagi-tanaman",
+    "title": "Ketersediaan Air bagi Tanaman",
+    "imageUrl": "https://cews.bmkg.go.id/tempatikl/reports/sourceATi/ATi_update.png",
+    "descriptionUrl": "",
+    "description": "",
+    "tabs": null,
+    "iframeUrl": null
+  },
+  {
+    "title": "Analisis Konsentrasi CO2",
+    "slug": "konsentrasi-co2",
+    "imageUrl": "",
+    "descriptionUrl": "",
+    "description": "Informasi konsentrasi CO2.",
+    "tabs": null,
+    "iframeUrl": "https://cews.bmkg.go.id/tempatirk/WEB-GRK/SPATIAL"
+  },
+  {
+    "slug": "dinamika-atmosfer-dan-laut",
+    "title": "Dinamika Atmosfer dan Laut",
+    "imageUrl": "",
+    "descriptionUrl": "",
+    "description": "",
+    "tabs": null,
+    "iframeUrl": null
+  },
+  {
+    "slug": "peringatan-dini-kekeringan-meteorologis",
+    "title": "Peringatan Dini Kekeringan Meteorologis",
+    "imageUrl": "https://cews.bmkg.go.id/operational-early-warning-pdi/0_Latest/PDKM_latest.jpg",
+    "descriptionUrl": "https://cews.bmkg.go.id/operational-early-warning-pdi/0_Latest/PDKM_latest.txt",
+    "description": "",
+    "tabs": null,
+    "iframeUrl": null
+  },
+  {
+    "slug": "peringatan-dini-curah-hujan-tinggi",
+    "title": "Peringatan Dini Curah Hujan Tinggi",
+    "imageUrl": "https://cews.bmkg.go.id/operational-early-warning-pdi/0_Latest/PDCHT_latest.jpg",
+    "descriptionUrl": "https://cews.bmkg.go.id/operational-early-warning-pdi/0_Latest/PDCHT_latest.txt",
+    "description": "",
+    "tabs": null,
+    "iframeUrl": null
+  },
+  {
+    "slug": "kondisi-enso-el-nino-dan-la-nina",
+    "title": "Kondisi ENSO (EL Nino dan La Nina)",
+    "imageUrl": "https://cews.bmkg.go.id/operational-early-warning-pdi/0_Latest/Global_SSTA_latest.gif",
+    "descriptionUrl": "",
+    "description": "Informasi kondisi ENSO (EL Nino dan La Nina).",
+    "tabs": null,
+    "iframeUrl": null
+  },
+  {
+    "slug": "peringatan-dini-konsentrasi-partikulat",
+    "title": "Peringatan Dini Konsentrasi Partikulat (PM2,5)",
+    "imageUrl": "",
+    "descriptionUrl": "",
+    "description": "Informasi Peringatan Dini Kualitas Udara Ekstrem untuk wilayah Indonesia sampai tiga hari ke depan. Kondisi ektrem diartikan sebagai kualitas udara pada level “TIDAK SEHAT”, “SANGAT TIDAK SEHAT”, dan “BERBAHAYA” berdasarkan konsentrasi PM2.5. Level “TIDAK SEHAT”, “SANGAT TIDAK SEHAT”, dan “BERBAHAYA” berturut-turut disajikan dalam tabel dengan warna kuning, merah, dan hitam. Informasi ini diperbaharui setiap hari pada pukul 08:00 WIB.",
+    "tabs": null,
+    "iframeUrl": "https://cews.bmkg.go.id/tempatirk/AQ-PRED/"
+  },
+  {
+    "slug": "konsentrasi-gas-rumah-kaca",
+    "title": "Prediksi Konsentrasi GRK",
+    "imageUrl": "",
+    "descriptionUrl": "",
+    "description": "Informasi ini menyediakan prediksi konsentrasi CO₂, CH₄, N₂O, dan SF₆ untuk enam bulan ke depan. Prediksi ini berbasis model statistik dan observasi historis, guna membantu pengambilan keputusan strategis dalam pengelolaan emisi dan perencanaan adaptasi terhadap perubahan iklim.",
+    "tabs": null,
+    "iframeUrl": "https://cews.bmkg.go.id/tempatirk/WEB-GRK/PRED-DAY/"
+  },
+  {
+    "title": "Karbon Monoksida (CO)",
+    "slug": "karbon-monoksida",
+    "imageUrl": "https://cews.bmkg.go.id/tempatirk/CAMS_CO/update_co.gif",
+    "descriptionUrl": "",
+    "description": "Informasi prakiraan tingkat karbon monoksida untuk wilayah Indonesia sampai tiga hari ke depan, membantu memantau polutan udara berbahaya dari emisi kendaraan dan sumber industriInformasi ini diperbaharui setiap hari pada pukul 08:00 WIB.",
+    "tabs": null,
+    "iframeUrl": null
+  },
+  {
+    "title": "Sulfur Dioksida (SO2)",
+    "slug": "sulfur-dioksida",
+    "imageUrl": "https://cews.bmkg.go.id/tempatirk/CAMS_SO2/update_so2.gif",
+    "descriptionUrl": "",
+    "description": "Informasi prakiraan tingkat sulfur dioksida wilayah Indonesia sampai tiga hari ke depan, untuk memantau polutan dari sumber industri dan aktivitas vulkanik, sehingga penting untuk kesehatan pernapasan. Informasi ini diperbaharui setiap hari pada pukul 08:00 WIB.",
+    "tabs": null,
+    "iframeUrl": null
+  },
+  {
+    "title": "Nitrogen Dioksida (NO2)",
+    "slug": "nitrogen-dioksida",
+    "imageUrl": "https://cews.bmkg.go.id/tempatirk/CAMS_NO2/update_no2.gif",
+    "descriptionUrl": "",
+    "description": "Informasi prakiraan konsentrasi nitrogen dioksida wilayah Indonesia sampai tiga hari ke depan terutama dari emisi lalu lintas dan industri yang mempengaruhi kualitas udara perkotaan. Informasi ini diperbaharui setiap hari pada pukul 08:00 WIB.",
+    "tabs": null,
+    "iframeUrl": null
+  },
+  {
+    "title": "Ozon Permukaan (O3)",
+    "slug": "ozon-permukaan",
+    "imageUrl": "https://cews.bmkg.go.id/tempatirk/CAMS_O3/update_o3.gif",
+    "descriptionUrl": "",
+    "description": "Informasi prakiraan konsentrasi ozon permukaanwilayah Indonesia sampai tiga hari ke depan guna memantau polutan sekunder berbahaya yang terbentuk dari emisi kendaraan dan industri. Informasi ini diperbaharui setiap hari pada pukul 08:00 WIB.",
+    "tabs": null,
+    "iframeUrl": null
+  },
+  {
+    "slug": "prediksi-musim",
+    "title": "Prediksi Musim",
+    "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/MUSIM/permus_poster.png",
+    "descriptionUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/MUSIM/permus_narasi.txt",
+    "description": "",
+    "tabs": null,
+    "iframeUrl": null
+  },
+  {
+    "slug": "prediksi-indeks-presipitasi-terstandarisasi",
+    "title": "Prediksi Indeks Presipitasi Terstandarisasi",
+    "imageUrl": "",
+    "descriptionUrl": "",
+    "description": "",
+    "tabs": [
+      {
+        "title": "Prakiraan SPI-1",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PRAKSPI/prakspi1.png",
+        "descriptionUrl": "",
+        "description": "Prakiraan SPI-1"
+      },
+      {
+        "title": "Prakiraan SPI-3",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PRAKSPI/prakspi3.png",
+        "descriptionUrl": "https://cews.bmkg.go.id/operational-early-warning-pdi/0_Latest/SPI3_prediksi_latest.txt",
+        "description": "Prakiraan SPI-3"
+      },
+      {
+        "title": "Prakiraan SPI-6",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PRAKSPI/prakspi6.png",
+        "descriptionUrl": "",
+        "description": "Prakiraan SPI-6"
+      }
+    ],
+    "iframeUrl": null
+  },
+  {
+    "slug": "prediksi-curah-hujan-bulanan",
+    "title": "Prediksi Curah Hujan Bulanan",
+    "imageUrl": "",
+    "descriptionUrl": "",
+    "description": "",
+    "tabs": [
+      {
+        "title": "PCH satu bulan ke depan",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_BLN/pch_bln_det_step1.png",
+        "descriptionUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_BLN/pch_bln_narasi_step1.txt",
+        "description": ""
+      },
+      {
+        "title": "PCH dua bulan ke depan",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_BLN/pch_bln_det_step2.png",
+        "descriptionUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_BLN/pch_bln_narasi_step2.txt",
+        "description": ""
+      },
+      {
+        "title": "PCH tiga bulan ke depan",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_BLN/pch_bln_det_step3.png",
+        "descriptionUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_BLN/pch_bln_narasi_step3.txt",
+        "description": ""
+      },
+      {
+        "title": "PCH empat bulan ke depan",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_BLN/pch_bln_det_step4.png",
+        "descriptionUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_BLN/pch_bln_narasi_step4.txt",
+        "description": ""
+      },
+      {
+        "title": "PCH lima bulan ke depan",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_BLN/pch_bln_det_step5.png",
+        "descriptionUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_BLN/pch_bln_narasi_step5.txt",
+        "description": ""
+      },
+      {
+        "title": "PCH enam bulan ke depan",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_BLN/pch_bln_det_step6.png",
+        "descriptionUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_BLN/pch_bln_narasi_step6.txt",
+        "description": ""
+      },
+      {
+        "title": "PCH Bulanan Deterministik Step 7",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_BLN/pch_bln_det_step7.png",
+        "descriptionUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_BLN/pch_bln_narasi_step7.txt",
+        "description": ""
+      }
+    ],
+    "iframeUrl": null
+  },
+  {
+    "slug": "prediksi-sifat-hujan-bulanan",
+    "title": "Prediksi Sifat Hujan Bulanan",
+    "imageUrl": "",
+    "descriptionUrl": "",
+    "description": "",
+    "tabs": [
+      {
+        "title": "PSH Bulanan Deterministik Step 1",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_BLN/psh_bln_det_step1.png",
+        "descriptionUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_BLN/psh_bln_narasi_step1.txt",
+        "description": ""
+      },
+      {
+        "title": "PSH Bulanan Deterministik Step 2",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_BLN/psh_bln_det_step2.png",
+        "descriptionUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_BLN/psh_bln_narasi_step2.txt",
+        "description": ""
+      },
+      {
+        "title": "PSH Bulanan Deterministik Step 3",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_BLN/psh_bln_det_step3.png",
+        "descriptionUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_BLN/psh_bln_narasi_step3.txt",
+        "description": ""
+      },
+      {
+        "title": "PSH Bulanan Deterministik Step 4",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_BLN/psh_bln_det_step4.png",
+        "descriptionUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_BLN/psh_bln_narasi_step4.txt",
+        "description": ""
+      },
+      {
+        "title": "PSH Bulanan Deterministik Step 5",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_BLN/psh_bln_det_step5.png",
+        "descriptionUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_BLN/psh_bln_narasi_step5.txt",
+        "description": ""
+      },
+      {
+        "title": "PSH Bulanan Deterministik Step 6",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_BLN/psh_bln_det_step6.png",
+        "descriptionUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_BLN/psh_bln_narasi_step6.txt",
+        "description": ""
+      },
+      {
+        "title": "PSH Bulanan Deterministik Step 7",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_BLN/psh_bln_det_step7.png",
+        "descriptionUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_BLN/psh_bln_narasi_step7.txt",
+        "description": ""
+      }
+    ],
+    "iframeUrl": null
+  },
+  {
+    "slug": "peluang-curah-hujan-bulanan-di-atas-500",
+    "title": "Peluang Curah Hujan Bulanan di Atas 500",
+    "imageUrl": "",
+    "descriptionUrl": "",
+    "description": "",
+    "tabs": [
+      {
+        "title": "Step 1",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_BLN/pch_bln_prob_a500_step1.png",
+        "descriptionUrl": "",
+        "description": "Informasi PCH Bulanan di Atas 500 (Step 1)"
+      },
+      {
+        "title": "Step 2",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_BLN/pch_bln_prob_a500_step2.png",
+        "descriptionUrl": "",
+        "description": "Informasi PCH Bulanan di Atas 500 (Step 2)"
+      },
+      {
+        "title": "Step 3",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_BLN/pch_bln_prob_a500_step3.png",
+        "descriptionUrl": "",
+        "description": "Informasi PCH Bulanan di Atas 500 (Step 3)"
+      },
+      {
+        "title": "Step 4",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_BLN/pch_bln_prob_a500_step4.png",
+        "descriptionUrl": "",
+        "description": "Informasi PCH Bulanan di Atas 500 (Step 4)"
+      },
+      {
+        "title": "Step 5",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_BLN/pch_bln_prob_a500_step5.png",
+        "descriptionUrl": "",
+        "description": "Informasi PCH Bulanan di Atas 500 (Step 5)"
+      },
+      {
+        "title": "Step 6",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_BLN/pch_bln_prob_a500_step6.png",
+        "descriptionUrl": "",
+        "description": "Informasi PCH Bulanan di Atas 500 (Step 6)"
+      },
+      {
+        "title": "Step 7",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_BLN/pch_bln_prob_a500_step7.png",
+        "descriptionUrl": "",
+        "description": "Informasi PCH Bulanan di Atas 500 (Step 7)"
+      }
+    ],
+    "iframeUrl": null
+  },
+  {
+    "slug": "peluang-curah-hujan-bulanan-di-atas-300",
+    "title": "Peluang Curah Hujan Bulanan di Atas 300",
+    "imageUrl": "",
+    "descriptionUrl": "",
+    "description": "",
+    "tabs": [
+      {
+        "title": "Step 1",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_BLN/pch_bln_prob_a300_step1.png",
+        "descriptionUrl": "",
+        "description": "Informasi PCH Bulanan di Atas 300 (Step 1)"
+      },
+      {
+        "title": "Step 2",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_BLN/pch_bln_prob_a300_step2.png",
+        "descriptionUrl": "",
+        "description": "Informasi PCH Bulanan di Atas 300 (Step 2)"
+      },
+      {
+        "title": "Step 3",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_BLN/pch_bln_prob_a300_step3.png",
+        "descriptionUrl": "",
+        "description": "Informasi PCH Bulanan di Atas 300 (Step 3)"
+      },
+      {
+        "title": "Step 4",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_BLN/pch_bln_prob_a300_step4.png",
+        "descriptionUrl": "",
+        "description": "Informasi PCH Bulanan di Atas 300 (Step 4)"
+      },
+      {
+        "title": "Step 5",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_BLN/pch_bln_prob_a300_step5.png",
+        "descriptionUrl": "",
+        "description": "Informasi PCH Bulanan di Atas 300 (Step 5)"
+      },
+      {
+        "title": "Step 6",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_BLN/pch_bln_prob_a300_step6.png",
+        "descriptionUrl": "",
+        "description": "Informasi PCH Bulanan di Atas 300 (Step 6)"
+      },
+      {
+        "title": "Step 7",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_BLN/pch_bln_prob_a300_step7.png",
+        "descriptionUrl": "",
+        "description": "Informasi PCH Bulanan di Atas 300 (Step 7)"
+      }
+    ],
+    "iframeUrl": null
+  },
+  {
+    "slug": "peluang-curah-hujan-bulanan-di-atas-150",
+    "title": "Peluang Curah Hujan Bulanan di Atas 150",
+    "imageUrl": "",
+    "descriptionUrl": "",
+    "description": "",
+    "tabs": [
+      {
+        "title": "Step 1",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_BLN/pch_bln_prob_a150_step1.png",
+        "descriptionUrl": "",
+        "description": "Informasi PCH Bulanan di Atas 150 (Step 1)"
+      },
+      {
+        "title": "Step 2",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_BLN/pch_bln_prob_a150_step2.png",
+        "descriptionUrl": "",
+        "description": "Informasi PCH Bulanan di Atas 150 (Step 2)"
+      },
+      {
+        "title": "Step 3",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_BLN/pch_bln_prob_a150_step3.png",
+        "descriptionUrl": "",
+        "description": "Informasi PCH Bulanan di Atas 150 (Step 3)"
+      },
+      {
+        "title": "Step 4",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_BLN/pch_bln_prob_a150_step4.png",
+        "descriptionUrl": "",
+        "description": "Informasi PCH Bulanan di Atas 150 (Step 4)"
+      },
+      {
+        "title": "Step 5",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_BLN/pch_bln_prob_a150_step5.png",
+        "descriptionUrl": "",
+        "description": "Informasi PCH Bulanan di Atas 150 (Step 5)"
+      },
+      {
+        "title": "Step 6",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_BLN/pch_bln_prob_a150_step6.png",
+        "descriptionUrl": "",
+        "description": "Informasi PCH Bulanan di Atas 150 (Step )"
+      },
+      {
+        "title": "Step 7",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_BLN/pch_bln_prob_a150_step7.png",
+        "descriptionUrl": "",
+        "description": "Informasi PCH Bulanan di Atas 150 (Step 7)"
+      }
+    ],
+    "iframeUrl": null
+  },
+  {
+    "slug": "peluang-curah-hujan-bulanan-di-bawah-150",
+    "title": "Peluang Curah Hujan Bulanan di Bawah 150",
+    "imageUrl": "",
+    "descriptionUrl": "",
+    "description": "",
+    "tabs": [
+      {
+        "title": "Step 1",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_BLN/pch_bln_prob_b150_step1.png",
+        "descriptionUrl": "",
+        "description": "Informasi PCH Bulanan di Bawah 150 (Step 1)"
+      },
+      {
+        "title": "Step 2",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_BLN/pch_bln_prob_b150_step2.png",
+        "descriptionUrl": "",
+        "description": "Informasi PCH Bulanan di Bawah 150 (Step 2)"
+      },
+      {
+        "title": "Step 3",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_BLN/pch_bln_prob_b150_step3.png",
+        "descriptionUrl": "",
+        "description": "Informasi PCH Bulanan di Bawah 150 (Step 3)"
+      },
+      {
+        "title": "Step 4",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_BLN/pch_bln_prob_b150_step4.png",
+        "descriptionUrl": "",
+        "description": "Informasi PCH Bulanan di Bawah 150 (Step 4)"
+      },
+      {
+        "title": "Step 5",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_BLN/pch_bln_prob_b150_step5.png",
+        "descriptionUrl": "",
+        "description": "Informasi PCH Bulanan di Bawah 150 (Step 5)"
+      },
+      {
+        "title": "Step 6",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_BLN/pch_bln_prob_b150_step6.png",
+        "descriptionUrl": "",
+        "description": "Informasi PCH Bulanan di Bawah 150 (Step )"
+      },
+      {
+        "title": "Step 7",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_BLN/pch_bln_prob_b150_step7.png",
+        "descriptionUrl": "",
+        "description": "Informasi PCH Bulanan di Bawah 150 (Step 7)"
+      }
+    ],
+    "iframeUrl": null
+  },
+  {
+    "slug": "peluang-curah-hujan-bulanan-di-atas-100",
+    "title": "Peluang Curah Hujan Bulanan di Atas 100",
+    "imageUrl": "",
+    "descriptionUrl": "",
+    "description": "",
+    "tabs": [
+      {
+        "title": "Step 1",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_BLN/pch_bln_prob_a100_step1.png",
+        "descriptionUrl": "",
+        "description": "Informasi PCH Bulanan di Atas 100 (Step 1)"
+      },
+      {
+        "title": "Step 2",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_BLN/pch_bln_prob_a100_step2.png",
+        "descriptionUrl": "",
+        "description": "Informasi PCH Bulanan di Atas 100 (Step 2)"
+      },
+      {
+        "title": "Step 3",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_BLN/pch_bln_prob_a100_step3.png",
+        "descriptionUrl": "",
+        "description": "Informasi PCH Bulanan di Atas 100 (Step 3)"
+      },
+      {
+        "title": "Step 4",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_BLN/pch_bln_prob_a100_step4.png",
+        "descriptionUrl": "",
+        "description": "Informasi PCH Bulanan di Atas 100 (Step 4)"
+      },
+      {
+        "title": "Step 5",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_BLN/pch_bln_prob_a100_step5.png",
+        "descriptionUrl": "",
+        "description": "Informasi PCH Bulanan di Atas 100 (Step 5)"
+      },
+      {
+        "title": "Step 6",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_BLN/pch_bln_prob_a100_step6.png",
+        "descriptionUrl": "",
+        "description": "Informasi PCH Bulanan di Atas 100 (Step )"
+      },
+      {
+        "title": "Step 7",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_BLN/pch_bln_prob_a100_step7.png",
+        "descriptionUrl": "",
+        "description": "Informasi PCH Bulanan di Atas 100 (Step 7)"
+      }
+    ],
+    "iframeUrl": null
+  },
+  {
+    "slug": "peluang-curah-hujan-bulanan-di-bawah-100",
+    "title": "Peluang Curah Hujan Bulanan di Bawah 100",
+    "imageUrl": "",
+    "descriptionUrl": "",
+    "description": "",
+    "tabs": [
+      {
+        "title": "Step 1",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_BLN/pch_bln_prob_b100_step1.png",
+        "descriptionUrl": "",
+        "description": "Informasi PCH Bulanan di Bawah 100 (Step 1)"
+      },
+      {
+        "title": "Step 2",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_BLN/pch_bln_prob_b100_step2.png",
+        "descriptionUrl": "",
+        "description": "Informasi PCH Bulanan di Bawah 100 (Step 2)"
+      },
+      {
+        "title": "Step 3",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_BLN/pch_bln_prob_b100_step3.png",
+        "descriptionUrl": "",
+        "description": "Informasi PCH Bulanan di Bawah 100 (Step 3)"
+      },
+      {
+        "title": "Step 4",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_BLN/pch_bln_prob_b100_step4.png",
+        "descriptionUrl": "",
+        "description": "Informasi PCH Bulanan di Bawah 100 (Step 4)"
+      },
+      {
+        "title": "Step 5",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_BLN/pch_bln_prob_b100_step5.png",
+        "descriptionUrl": "",
+        "description": "Informasi PCH Bulanan di Bawah 100 (Step 5)"
+      },
+      {
+        "title": "Step 6",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_BLN/pch_bln_prob_b100_step6.png",
+        "descriptionUrl": "",
+        "description": "Informasi PCH Bulanan di Bawah 100 (Step )"
+      },
+      {
+        "title": "Step 7",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_BLN/pch_bln_prob_b100_step7.png",
+        "descriptionUrl": "",
+        "description": "Informasi PCH Bulanan di Bawah 100 (Step 7)"
+      }
+    ],
+    "iframeUrl": null
+  },
+  {
+    "slug": "prediksi-curah-hujan-dasarian",
+    "title": "Prediksi Curah Hujan Dasarian",
+    "imageUrl": "",
+    "descriptionUrl": "",
+    "description": "",
+    "tabs": [
+      {
+        "title": "Step 1",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_DAS/pch_das_det_step1.png",
+        "descriptionUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_DAS/pch_das_narasi_step1.txt",
+        "description": ""
+      },
+      {
+        "title": "Step 2",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_DAS/pch_das_det_step2.png",
+        "descriptionUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_DAS/pch_das_narasi_step2.txt",
+        "description": ""
+      },
+      {
+        "title": "Step 3",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_DAS/pch_das_det_step3.png",
+        "descriptionUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_DAS/pch_das_narasi_step3.txt",
+        "description": ""
+      }
+    ],
+    "iframeUrl": null
+  },
+  {
+    "slug": "prediksi-sifat-hujan-dasarian",
+    "title": "Prediksi Sifat Hujan Dasarian",
+    "imageUrl": "",
+    "descriptionUrl": "",
+    "description": "",
+    "tabs": [
+      {
+        "title": "Step 1",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_DAS/psh_das_det_step1.png",
+        "descriptionUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_DAS/psh_das_narasi_step1.txt",
+        "description": ""
+      },
+      {
+        "title": "Step 2",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_DAS/psh_das_det_step2.png",
+        "descriptionUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_DAS/psh_das_narasi_step2.txt",
+        "description": ""
+      },
+      {
+        "title": "Step 3",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_DAS/psh_das_det_step3.png",
+        "descriptionUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_DAS/psh_das_narasi_step3.txt",
+        "description": ""
+      }
+    ],
+    "iframeUrl": null
+  },
+  {
+    "slug": "peluang-curah-hujan-dasarian-di-atas-300",
+    "title": "Peluang Curah Hujan Dasarian di Atas 300",
+    "imageUrl": "",
+    "descriptionUrl": "",
+    "description": "",
+    "tabs": [
+      {
+        "title": "Step 1",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_DAS/pch_das_prob_a300_step1.png",
+        "descriptionUrl": "",
+        "description": "Informasi PCH Dasarian di Atas 300 (Step 1)"
+      },
+      {
+        "title": "Step 2",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_DAS/pch_das_prob_a300_step2.png",
+        "descriptionUrl": "",
+        "description": "Informasi PCH Dasarian di Atas 300 (Step 2)"
+      },
+      {
+        "title": "Step 3",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_DAS/pch_das_prob_a300_step3.png",
+        "descriptionUrl": "",
+        "description": "Informasi PCH Dasarian di Atas 300 (Step 3)"
+      }
+    ],
+    "iframeUrl": null
+  },
+  {
+    "slug": "peluang-curah-hujan-dasarian-di-atas-150",
+    "title": "Peluang Curah Hujan Dasarian di Atas 150",
+    "imageUrl": "",
+    "descriptionUrl": "",
+    "description": "",
+    "tabs": [
+      {
+        "title": "Step 1",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_DAS/pch_das_prob_a150_step1.png",
+        "descriptionUrl": "",
+        "description": "Informasi PCH Dasarian di Atas 150 (Step 1)"
+      },
+      {
+        "title": "Step 2",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_DAS/pch_das_prob_a150_step2.png",
+        "descriptionUrl": "",
+        "description": "Informasi PCH Dasarian di Atas 150 (Step 2)"
+      },
+      {
+        "title": "Step 3",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_DAS/pch_das_prob_a150_step3.png",
+        "descriptionUrl": "",
+        "description": "Informasi PCH Dasarian di Atas 150 (Step 3)"
+      }
+    ],
+    "iframeUrl": null
+  },
+  {
+    "slug": "peluang-curah-hujan-dasarian-di-bawah-150",
+    "title": "Peluang Curah Hujan Dasarian di Bawah 150",
+    "imageUrl": "",
+    "descriptionUrl": "",
+    "description": "",
+    "tabs": [
+      {
+        "title": "Step 1",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_DAS/pch_das_prob_b150_step1.png",
+        "descriptionUrl": "",
+        "description": "Informasi PCH Dasarian di Bawah 150 (Step 1)"
+      },
+      {
+        "title": "Step 2",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_DAS/pch_das_prob_b150_step2.png",
+        "descriptionUrl": "",
+        "description": "Informasi PCH Dasarian di Bawah 150 (Step 2)"
+      },
+      {
+        "title": "Step 3",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_DAS/pch_das_prob_b150_step3.png",
+        "descriptionUrl": "",
+        "description": "Informasi PCH Dasarian di Bawah 150 (Step 3)"
+      }
+    ],
+    "iframeUrl": null
+  },
+  {
+    "slug": "peluang-curah-hujan-dasarian-di-atas-100",
+    "title": "Peluang Curah Hujan Dasarian di Atas 100",
+    "imageUrl": "",
+    "descriptionUrl": "",
+    "description": "",
+    "tabs": [
+      {
+        "title": "Step 1",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_DAS/pch_das_prob_a100_step1.png",
+        "descriptionUrl": "",
+        "description": "Informasi PCH Dasarian di Atas 100 (Step 1)"
+      },
+      {
+        "title": "Step 2",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_DAS/pch_das_prob_a100_step2.png",
+        "descriptionUrl": "",
+        "description": "Informasi PCH Dasarian di Atas 100 (Step 2)"
+      },
+      {
+        "title": "Step 3",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_DAS/pch_das_prob_a100_step3.png",
+        "descriptionUrl": "",
+        "description": "Informasi PCH Dasarian di Atas 100 (Step 3)"
+      }
+    ],
+    "iframeUrl": null
+  },
+  {
+    "slug": "peluang-curah-hujan-dasarian-di-bawah-100",
+    "title": "Peluang Curah Hujan Dasarian di Bawah 100",
+    "imageUrl": "",
+    "descriptionUrl": "",
+    "description": "",
+    "tabs": [
+      {
+        "title": "Step 1",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_DAS/pch_das_prob_b100_step1.png",
+        "descriptionUrl": "",
+        "description": "Informasi PCH Dasarian di Bawah 100 (Step 1)"
+      },
+      {
+        "title": "Step 2",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_DAS/pch_das_prob_b100_step2.png",
+        "descriptionUrl": "",
+        "description": "Informasi PCH Dasarian di Bawah 100 (Step 2)"
+      },
+      {
+        "title": "Step 3",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_DAS/pch_das_prob_b100_step3.png",
+        "descriptionUrl": "",
+        "description": "Informasi PCH Dasarian di Bawah 100 (Step 3)"
+      }
+    ],
+    "iframeUrl": null
+  },
+  {
+    "slug": "peluang-curah-hujan-dasarian-di-atas-50",
+    "title": "Peluang Curah Hujan Dasarian di Atas 50",
+    "imageUrl": "",
+    "descriptionUrl": "",
+    "description": "",
+    "tabs": [
+      {
+        "title": "Step 1",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_DAS/pch_das_prob_a50_step1.png",
+        "descriptionUrl": "",
+        "description": "Informasi PCH Dasarian di Atas 50 (Step 1)"
+      },
+      {
+        "title": "Step 2",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_DAS/pch_das_prob_a50_step2.png",
+        "descriptionUrl": "",
+        "description": "Informasi PCH Dasarian di Atas 50 (Step 2)"
+      },
+      {
+        "title": "Step 3",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_DAS/pch_das_prob_a50_step3.png",
+        "descriptionUrl": "",
+        "description": "Informasi PCH Dasarian di Atas 50 (Step 3)"
+      }
+    ],
+    "iframeUrl": null
+  },
+  {
+    "slug": "peluang-curah-hujan-dasarian-di-bawah-50",
+    "title": "Peluang Curah Hujan Dasarian di Bawah 50",
+    "imageUrl": "",
+    "descriptionUrl": "",
+    "description": "",
+    "tabs": [
+      {
+        "title": "Step 1",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_DAS/pch_das_prob_b50_step1.png",
+        "descriptionUrl": "",
+        "description": "Informasi PCH Dasarian di Bawah 50 (Step 1)"
+      },
+      {
+        "title": "Step 2",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_DAS/pch_das_prob_b50_step2.png",
+        "descriptionUrl": "",
+        "description": "Informasi PCH Dasarian di Bawah 50 (Step 2)"
+      },
+      {
+        "title": "Step 3",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_DAS/pch_das_prob_b50_step3.png",
+        "descriptionUrl": "",
+        "description": "Informasi PCH Dasarian di Bawah 50 (Step 3)"
+      }
+    ],
+    "iframeUrl": null
+  },
+  {
+    "slug": "peluang-curah-hujan-dasarian-di-atas-20",
+    "title": "Peluang Curah Hujan Dasarian di Atas 20",
+    "imageUrl": "",
+    "descriptionUrl": "",
+    "description": "",
+    "tabs": [
+      {
+        "title": "Step 1",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_DAS/pch_das_prob_a20_step1.png",
+        "descriptionUrl": "",
+        "description": "Informasi PCH Dasarian di Atas 20 (Step 1)"
+      },
+      {
+        "title": "Step 2",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_DAS/pch_das_prob_a20_step2.png",
+        "descriptionUrl": "",
+        "description": "Informasi PCH Dasarian di Atas 20 (Step 2)"
+      },
+      {
+        "title": "Step 3",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_DAS/pch_das_prob_a20_step3.png",
+        "descriptionUrl": "",
+        "description": "Informasi PCH Dasarian di Atas 20 (Step 3)"
+      }
+    ],
+    "iframeUrl": null
+  },
+  {
+    "slug": "peluang-curah-hujan-dasarian-di-bawah-20",
+    "title": "Peluang Curah Hujan Dasarian di Bawah 20",
+    "imageUrl": "",
+    "descriptionUrl": "",
+    "description": "",
+    "tabs": [
+      {
+        "title": "Step 1",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_DAS/pch_das_prob_b20_step1.png",
+        "descriptionUrl": "",
+        "description": "Informasi PCH Dasarian di Bawah 20 (Step 1)"
+      },
+      {
+        "title": "Step 2",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_DAS/pch_das_prob_b20_step2.png",
+        "descriptionUrl": "",
+        "description": "Informasi PCH Dasarian di Bawah 20 (Step 2)"
+      },
+      {
+        "title": "Step 3",
+        "imageUrl": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PCH_DAS/pch_das_prob_b20_step3.png",
+        "descriptionUrl": "",
+        "description": "Informasi PCH Dasarian di Bawah 20 (Step 3)"
+      }
+    ],
+    "iframeUrl": null
+  },
+  {
+    "slug": "prediksi-daerah-potensi-banjir",
+    "title": "Prediksi daerah Potensi Banjir",
+    "imageUrl": "",
+    "descriptionUrl": "",
+    "description": "",
+    "tabs": null,
+    "iframeUrl": null
+  },
+  {
+    "slug": "prediksi-konsentrasi-gas-rumah-kaca",
+    "title": "Prediksi Konsentrasi Gas Rumah Kaca",
+    "imageUrl": "",
+    "descriptionUrl": "",
+    "description": "",
+    "tabs": null,
+    "iframeUrl": "https://cews.bmkg.go.id/tempatirk/WEB-GRK/PRED/"
+  },
+
+  {
+    "slug": "prediksi-ketersediaan-air-bagi-tanaman",
+    "title": "Prediksi Ketersediaan Air Bagi Tanaman",
+    "imageUrl": "",
+    "descriptionUrl": "",
+    "description": "",
+    "tabs": [
+      {
+        "title": "Satu bulan Kedepan",
+        "imageUrl": "https://cews.bmkg.go.id/tempatikl/reports/sourcePredATi/PreATi_0.png",
+        "descriptionUrl": "",
+        "description": "Prediksi ketersediaan air bagi tanaman satu bulan ke depan."
+      },
+      {
+        "title": "Dua bulan kedepan",
+        "imageUrl": "https://cews.bmkg.go.id/tempatikl/reports/sourcePredATi/PreATi_1.png",
+        "descriptionUrl": "",
+        "description": "Prediksi ketersediaan air bagi tanaman dua bulan ke depan."
+      },
+      {
+        "title": "Tiga bulan kedepan",
+        "imageUrl": "https://cews.bmkg.go.id/tempatikl/reports/sourcePredATi/PreATi_2.png",
+        "descriptionUrl": "",
+        "description": "Prediksi ketersediaan air bagi tanaman dua bulan ke depan."
+      }
+    ],
+    "iframeUrl": null
+  },
+  {
+    "slug": "fakta-perubahan-iklim",
+    "title": "Fakta Perubahan Iklim",
+    "imageUrl": "",
+    "descriptionUrl": "",
+    "description": "",
+    "tabs": null,
+    "iframeUrl": null
+  },
+  {
+    "slug": "analisis-laju-perubahan-suhu-udara",
+    "title": "Analisis Laju Perubahan Suhu Udara",
+    "imageUrl": "",
+    "descriptionUrl": "",
+    "description": "",
+    "tabs": null,
+    "iframeUrl": null
+  },
+  {
+    "slug": "data-iklim-tahunan",
+    "title": "Analisis Laju Perubahan Curah Hujan",
+    "imageUrl": "",
+    "descriptionUrl": "",
+    "description": "",
+    "tabs": null,
+    "iframeUrl": null
+  },
+  {
+    "slug": "proyeksi-perubahan-suhu-udara",
+    "title": "Proyeksi Perubahan Suhu Udara",
+    "imageUrl": "",
+    "descriptionUrl": "",
+    "description": "",
+    "tabs": null,
+    "iframeUrl": null
+  },
+  {
+    "slug": "proyeksi-perubahan-curah-hujan",
+    "title": "Proyeksi Perubahan Curah Hujan",
+    "imageUrl": "",
+    "descriptionUrl": "",
+    "description": "",
+    "tabs": null,
+    "iframeUrl": null
+  },
+  {
+    "slug": "warming-stripes",
+    "title": "Warming Stripes",
+    "imageUrl": "https://i0.wp.com/content.bmkg.go.id/wp-content/uploads/warming_stripes_HD-2.png?ssl=1",
+    "descriptionUrl": "",
+    "description": "Visualisasi data perubahan suhu rata-rata tahunan dari waktu ke waktu.",
+    "tabs": null,
+    "iframeUrl": null
+  }
+]

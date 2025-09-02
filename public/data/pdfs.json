@@ -1,0 +1,96 @@
+[
+  {
+    "id": 1,
+    "title": "Buletin Iklim Mei 2025",
+    "url": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/BULETIN/Buletin_Edisi_2025.05.pdf",
+    "category": "Iklim"
+  },
+  {
+    "id": 2,
+    "title": "Buletin Iklim Juni 2025",
+    "url": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/BULETIN/Buletin_Edisi_2025.06.pdf",
+    "category": "Iklim"
+  },
+  {
+    "id": 3,
+    "title": "Buletin Iklim Juli 2025",
+    "url": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/BULETIN/Buletin_Edisi_2025.07.pdf",
+    "category": "Iklim"
+  },
+  {
+    "id": 2,
+    "title": "Buletin Iklim Juni 2025",
+    "url": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/BULETIN/Buletin_Edisi_2025.06.pdf",
+    "category": "Iklim"
+  },
+  {
+    "id": 4,
+    "slug": "analisis-curah-hujan",
+    "url": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/ACH_DAS/ach_das.png",
+    "alt": "Analisis Curah Hujan Dasarian",
+    "category": "Sawit"
+  },
+  {
+    "id": 5,
+    "slug": "peringatan-dini-kekeringan",
+    "url": "https://cews.bmkg.go.id/operational-early-warning-pdi/0_Latest/PDKM_latest.jpg",
+    "alt": "Peringatan Dini Kekeringan Meteorologis",
+    "category": "Prakiraan Musim"
+  },
+  {
+    "id": 6,
+    "slug": "kualitas-udara-pm25",
+    "url": "https://cews.bmkg.go.id/tempatirk/CAMS_PM2p5/update_pm2p5_aq.gif",
+    "alt": "Kualitas Udara Berdasarkan PM2.5",
+    "category": "Catatan Iklim"
+  },
+  {
+    "id": 7,
+    "title": "Buletin Iklim April 2025",
+    "url": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/BULETIN/Buletin_Edisi_2025.04.pdf",
+    "category": "Pandangan Iklim"
+  },
+  {
+    "id": 8,
+    "slug": "prediksi-indeks-presipitasi",
+    "url": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/PRAKSPI/prakspi1.png",
+    "alt": "Prediksi Indeks Presipitasi Terstandarisasi",
+    "category": "Sawit"
+  },
+  {
+    "id": 9,
+    "title": "Buletin Iklim Agustus 2025",
+    "url": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/BULETIN/Buletin_Edisi_2025.08.pdf",
+    "category": "Iklim"
+  },
+  {
+    "id": 10,
+    "title": "Buletin Iklim Agustus 2025",
+    "url": "https://cews.bmkg.go.id/robiganstatic/PRODUK_UPDATE/BULETIN/Buletin_Edisi_2025.08.pdf",
+    "category": "Pandangan Iklim"
+  },
+  {
+    "id": 11,
+    "title": "Buletin Iklim Agustus 2025",
+    "url": "pdfs/Buku BMKG Climate Outlook 2025.pdf",
+    "category": "Pandangan Iklim"
+  },
+  {
+    "id": 12,
+    "title": "Buletin Iklim Agustus 2025",
+    "url": "pdfs/Buku Prediksi Musim Kemarau Indonesia 2025.pdf",
+    "category": "Pandangan Iklim"
+  },
+  {
+    "id": 13,
+    "title": "Buletin Iklim Agustus 2025",
+    "url": "pdfs/Catatan Iklim dan Kualitas Udara 2024 BMKG.pdf",
+    "category": "Pandangan Iklim"
+  },
+  {
+    "id": 14,
+    "title": "Buletin Iklim Agustus 2025",
+    "url": "pdfs/climate outlook 2024.pdf",
+    "category": "Pandangan Iklim"
+  }
+]
