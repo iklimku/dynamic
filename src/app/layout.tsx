@@ -28,7 +28,7 @@ export default async function RootLayout({
       <body
         className={`${poppins.variable} antialiased`}
       >
-        <SidebarProvider>
+        <SidebarProvider defaultOpen={false}>
           <AppSidebar />
           <main>
             <BMKGTimeBar />
