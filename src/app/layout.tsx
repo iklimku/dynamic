@@ -5,7 +5,6 @@ import BMKGTimeBar from "@/components/organisms/BMKGTimeBar";
 import Footer from "@/components/organisms/Footer";
 import { SidebarProvider, SidebarTrigger } from "@/components/ui/sidebar"
 import { AppSidebar } from "@/components/organisms/AppSidebar"
-import { cookies } from "next/headers"
 
 const poppins = Poppins({
   variable: "--font-poppins",
@@ -23,15 +22,13 @@ export default async function RootLayout({
 }: Readonly<{
   children: React.ReactNode;
 }>) {
-  const cookieStore = await cookies()
-  const defaultOpen = cookieStore.get("sidebar_state")?.value === "true"
 
   return (
     <html lang="en">
       <body
         className={`${poppins.variable} antialiased`}
       >
-        <SidebarProvider defaultOpen={defaultOpen}>
+        <SidebarProvider>
           <AppSidebar />
           <main>
             <BMKGTimeBar />
